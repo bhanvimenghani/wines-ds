@@ -3,3 +3,4 @@ pandas , numpy, tensorflow , keras, matplotlib for python3
 pre installed so that you are saved all the effort of 
 3 hrs of downloading :)
 link : https://hub.docker.com/r/bhanvi123/mlops_img
+you can also download using the docker pull cmd : docker pull bhanvi123/mlops_img
